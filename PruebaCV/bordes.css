@@ -1,0 +1,4 @@
+#borderDemo {
+    border: 7px double rgba(28,110,164,0.62);
+    border-radius: 32px 0px 40px 0px;
+    }
